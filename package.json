@@ -9,7 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Freedomwait/free-slate-editor.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/Freedomwait/free-slate-editor/issues",
+    "email" : "freedomwait@outlook.com"
   },
   "files": [
     "lib"
